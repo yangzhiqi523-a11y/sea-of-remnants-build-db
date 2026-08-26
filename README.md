@@ -46,7 +46,8 @@
 ```
 README.md
 characters/   角色页  （molly, axe, hungry-cat, iron-wall…）
-database/     数据    （当前基线）
+systems/      系统页  （天赋、船歌、行装、船养成、局内机制、出海玩法）
+database/     数据    （当前基线 + 版本日志）
 sources/      资料库  （可信攻略库 / 被拒攻略库）
 voyages/      出海日志（模板 + 实际抉择记录）
 ```
