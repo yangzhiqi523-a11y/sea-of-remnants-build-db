@@ -1,48 +1,65 @@
-# Sea of Remnants Build Database
+# 遗忘之海 · 构建数据库
 
-Version-controlled research database for **Sea of Remnants** builds.
+> 版本受控的《遗忘之海》（Sea of Remnants）玩法研究库。**先定终局构建，再选当前升级。**
+> 数据版本锚点：**2026-08（以 8/17 首赛季平衡重构为当前强度基线）**。
 
-## Purpose
+## 用途
+本库长期追踪：
+- 终局角色构建
+- 职业 / 转职路线
+- 天赋
+- 技能与骰子组合
+- 装备、行装与珍宝
+- 船歌
+- 版本更新影响分析
+- 出海抉择
 
-This repository tracks:
+## 核心哲学
+**先定义终局构建，再选择当前升级。**
 
-- Endgame character builds
-- Career / class routes
-- Talents
-- Skills and dice combinations
-- Equipment, outfits and wonders
-- Ship songs
-- Patch impact analysis
-- Voyage decisions
+优先级（高→低）：
+1. 终局协同
+2. 不可替代资源
+3. 核心构建组件
+4. 队伍交互
+5. 临时强度
 
-## Core Philosophy
+## 当前核心队伍
+| 角色 | 英文 | 定位 |
+|---|---|---|
+| 茉莉 | Molly | 主 C |
+| 小斧头 | Axe | 副 C / 行动链支持 |
+| 饿猫 | Hungry Cat | 队伍辅助 |
+| 铁腕统领 | Iron Wall | 稳定 / 保护 |
 
-Define the final build first, then choose current upgrades.
+**目标**：难度 3+ 稳定 farming，并推进高难自动化。
 
-Priority:
+## 规则
+- 天赋选择视为**永久**。
+- **机制与协同 > 临时数值**。
+- 每个角色只有**两个技能槽**。
+- 骰子评估必须结合所附技能。
+- 旧攻略必须对照**当前版本**复核。
+- **不支持 / AI 生成的攻略一律拒收**。
 
-1. Endgame synergy
-2. Irreplaceable resources
-3. Core build components
-4. Team interaction
-5. Temporary power
+## 目录
+```
+README.md
+characters/   角色页  （molly, axe, hungry-cat, iron-wall…）
+database/     数据    （当前基线）
+sources/      资料库  （可信攻略库 / 被拒攻略库）
+voyages/      出海日志（模板 + 实际抉择记录）
+```
 
-## Current Core Team
+## 内容双轨制
+每页分两段，两者都保留并标注版本与可信度：
+- **研究结论**：官网公告 / 媒体 / 社区攻略的采集与遴选（附来源与可信度）。仅作参考，非定论。
+- **实战经验**：玩家实测 / 你的游戏体验（附版本与环境）。**以此为准**。
 
-- Molly: Main DPS
-- Axe: Sub DPS / action chain support
-- Hungry Cat: Team utility
-- Iron Wall: Stability / protection
+可信度分层：**官方原文 > 官方公告转载 > 媒体原创 > 自媒体**。详见 `sources/trusted-guides.md`。
 
-Target:
+## 协作
+欢迎贡献。请阅读 `CONTRIBUTING.md` 了解条目格式、双轨制与标注规范。
 
-Difficulty 3+ stable farming and high difficulty automation.
-
-## Rules
-
-- Talent choices are treated as permanent.
-- Mechanism and synergy are more important than temporary stats.
-- Characters have only two skill slots.
-- Dice evaluation must consider the attached skill.
-- Old guides must be checked against current patches.
-- Unsupported or AI-generated guides are rejected.
+---
+*所有数值请以游戏内 + 官网公告为准。*
