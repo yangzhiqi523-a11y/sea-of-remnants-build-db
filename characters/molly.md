@@ -1,12 +1,12 @@
 # 茉莉（Molly）
 
-## 终局构建路线
-蚁妈（Ant Mother）
-→ 生命绑定（Life Bind）
-→ 香命缚者（Fragrant Life Binder）
-
 ## 定位
 主 C。
+
+## 转职路线 / 流派
+- **主流**：追击 / 溅射（T0 主 C），配合蚁妈（蚁后）打"回巢循环"。
+- **终局路线（你的）**：蚁妈（Ant Mother）→ 生命绑定（Life Bind）→ 香命缚者（Fragrant Life Binder）。
+- **推荐度**：T0，主 C 优先。转职细节参考：[茉莉转职推荐](https://m.18183.com/gonglue/202607/2ro30mup.html)、[茉莉配队转职技能](https://www.18183.com/gonglue/202607/j2u9o0la.html)、[茉莉全面培养攻略](https://news.17173.com/content/07232026/170355804.shtml)。
 
 ## 永久规则
 不要因暂时的伤害优势而脱离「生命绑定」体系。
@@ -23,7 +23,7 @@
 
 ### 研究结论（采集自公开来源，非最终定论）
 - 茉莉在当前版本公认 **T0 主 C**，核心是「追击 / 溅射」体系，常配蚁妈（蚁后）打「回巢循环」。
-- 线索来源：[茉莉溅射流·蚁后回巢循环](https://www.taptap.cn/moment/833598337201473536)、[茉莉蚁妈搭配](https://a.9game.cn/yiwangzhihai/11990025.html)、[茉莉困3招牌技1400万](https://www.bilibili.com/opus/1228878847397593097)（7/25）。
+- 线索来源：[茉莉溅射流·蚁后回巢循环](https://www.taptap.cn/moment/833598337201473536)、[茉莉蚁妈搭配](https://a.9game.cn/yiwangzhihai/11990025.html)、[茉莉困3招牌技1400万](https://www.bilibili.com/opus/1228878847397593097)（7/25）、[茉莉怎么搭配阵容](https://www.9game.cn/yiwangzhihai/11960837.html)。
 > 仅作线索；最终技能以你手中实测为准（遵守"AI 生成攻略拒收"）。
 
 ## 骰子
@@ -37,3 +37,6 @@
 
 ### 研究结论线索
 「强韧意志」是茉莉的一条天赋节点（[TapTap 佐证](https://www.taptap.cn/moment/833133720914364996)）。具体必选/可选/规避待当前版本实测后填入。
+
+## 配队
+见 [database/teams.md](../database/teams.md)。

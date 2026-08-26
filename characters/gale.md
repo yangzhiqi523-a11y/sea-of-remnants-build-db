@@ -1,13 +1,25 @@
 # 盖尔（Gale）
 
 ## 定位
-强力通用「**拉条 / 行动提前**」辅助（你 box 已持有，可作辅助位或体系组件）。
+强力通用「拉条 / 行动提前」辅助（你 box 已持有）。
+
+## 转职路线 / 流派
+- **流派**：拉条 / 行动提前（节拍辅助体系）；**最强职业搭配：宠儿 → 纯白宠儿**（[B站](https://www.bilibili.com/video/BV1vJuv6UEFq/)）。
+- **推荐度**：强辅助，但**争议较大、需看当前版本**（见下方"争议"）。
+
+## ⚠️ 争议（评论区交叉验证，重要）
+- 正面：[TapTap·最高90%拉条！版本T0辅助](https://www.taptap.cn/moment/833456687707850659)。
+- 谨慎/负面：[B站·盖尔（适配度一般）](https://www.bilibili.com/video/BV1bQMU63Ea7/)、[B站·盖尔值不值得抽？](https://www.bilibili.com/video/BV1rruJ6EEkG/)。
+- ⚠️ 存在"**盖尔被动技能暗改一刀**"事件（[TapTap](https://www.taptap.cn/moment/834389489093706836)），强度可能被调整 → **以当前版本实测为准**。
 
 ## 研究结论（采集自公开来源，非定论）
 - 机制：通用拉条 / 行动提前，**动的越多、动的就越多**（[B站·新版本盖尔评测](https://www.bilibili.com/video/BV1zJMy62EHk/)）。
-- 与「**行动提前**」船歌 / 骰子体系协同，适合站场加速主C（茉莉）出手。
-- 强度与养成：[9game·盖尔强度分析](https://www.9game.cn/yiwangzhihai/12012097.html)、[TapTap·盖尔养成配队攻略](https://www.taptap.cn/moment/835856782642383127)。
-> 待你实测确认：在当前队伍里用它代替谁 / 补哪个位置。
+- 与「行动提前」船歌 / 骰子体系协同，适合站场加速主C（茉莉）出手。
+- 强度与养成：[9game·盖尔强度分析](https://www.9game.cn/yiwangzhihai/12012097.html)、[TapTap·盖尔养成配队攻略](https://www.taptap.cn/moment/835856782642383127)、[9game·盖尔出装](https://www.9game.cn/biji/1359639.html)。
+> 待你实测确认其在当前队伍里的定位与适配度。
 
 ## 天赋 / 技能 / 骰子
 记录：必选 / 可选 / 规避。
+
+## 配队
+见 [database/teams.md](../database/teams.md)。
