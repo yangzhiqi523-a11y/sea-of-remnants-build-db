@@ -1,45 +1,43 @@
-# Current Meta Baseline
+# 当前 Meta 基线
 
-Version: 2026-08
+版本：**2026-08**（以 **8/17 首赛季平衡重构（力量系）** 为当前强度基线；更早攻略需按版本日期淘汰）。
 
-## Final Team Goal
+## 最终队伍目标
+难度 3+ 稳定 farming，并推进高难自动化。
 
-Difficulty 3+ stable farming.
+## 核心队伍
 
-## Core Team
+### 茉莉（Molly）
+定位：主 C
 
-### Molly
+终局路线：蚁妈（Ant Mother）→ 生命绑定（Life Bind）→ 香命缚者（Fragrant Life Binder）
 
-Role: Main DPS
+所有决定都应支持此路线。
 
-Final route:
+### 小斧头（Axe）
+定位：副 C / 行动链支持
 
-Ant Mother → Life Bind → Fragrant Life Binder
+优先级：
+- 为茉莉提供额外行动
+- 支持伤害循环
 
-All decisions should support this route.
+### 饿猫（Hungry Cat）
+定位：队伍辅助
 
-### Axe
+最终细节待实测验证。
 
-Role: Sub DPS and action-chain support.
+### 铁腕统领（Iron Wall）
+定位：防御 / 稳定性
 
-Priority:
-- Enable Molly extra actions
-- Support damage cycle
+最终细节待实测验证。
 
-### Hungry Cat
+## 决策规则
+- 不为早期强度牺牲终局构建。
+- 永久天赋需按终局评估。
+- 装备机制 > 强化等级。
+- 每个角色只有两个技能槽。
+- 旧攻略必须对照当前版本复核。
+- 不支持 / AI 生成的攻略拒收。
 
-Role: Utility member.
-
-Final details pending verification.
-
-### Iron Wall
-
-Role: Defensive stability.
-
-Final details pending verification.
-
-## Decision Rules
-
-- Do not sacrifice final build for early power.
-- Permanent talents require endgame evaluation.
-- Equipment mechanism > enhancement level.
+## 可信度与版本
+来源与外层分级见 `sources/trusted-guides.md`（可信攻略库）与 `sources/rejected-guides.md`（被拒攻略库）。

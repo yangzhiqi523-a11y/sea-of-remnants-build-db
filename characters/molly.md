@@ -1,39 +1,39 @@
-# Molly
+# 茉莉（Molly）
 
-## Final Build Route
+## 终局构建路线
+蚁妈（Ant Mother）
+→ 生命绑定（Life Bind）
+→ 香命缚者（Fragrant Life Binder）
 
-Ant Mother
-→ Life Bind
-→ Fragrant Life Binder
+## 定位
+主 C。
 
-## Role
+## 永久规则
+不要因暂时的伤害优势而脱离「生命绑定」体系。
 
-Main DPS.
+## 评估清单
+每个选择都应提升：
+- 生命绑定覆盖率
+- 行动经济
+- 伤害成长
+- 长线战斗稳定
 
-## Permanent Rule
+## 技能
+待当前版本实测确认。每个角色只有**两个技能槽**。
 
-Do not switch away from the Life Bind system because of temporary damage advantages.
+### 研究结论（采集自公开来源，非最终定论）
+- 茉莉在当前版本公认 **T0 主 C**，核心是「追击 / 溅射」体系，常配蚁妈（蚁后）打「回巢循环」。
+- 线索来源：[茉莉溅射流·蚁后回巢循环](https://www.taptap.cn/moment/833598337201473536)、[茉莉蚁妈搭配](https://a.9game.cn/yiwangzhihai/11990025.html)、[茉莉困3招牌技1400万](https://www.bilibili.com/opus/1228878847397593097)（7/25）。
+> 仅作线索；最终技能以你手中实测为准（遵守"AI 生成攻略拒收"）。
 
-## Evaluation Checklist
+## 骰子
+与所附技能一起评估。优先选**溅射 / 追击 / 暴击**类骰，资源优先投给茉莉。
 
-Every choice should improve:
+## 天赋
+记录：
+- 必选
+- 可选
+- 规避
 
-- Life Bind uptime
-- Action economy
-- Damage scaling
-- Long battle stability
-
-## Skills
-
-To be confirmed by current version testing.
-
-## Dice
-
-Evaluate together with the attached skill.
-
-## Talents
-
-Record:
-- Mandatory
-- Optional
-- Avoid
+### 研究结论线索
+「强韧意志」是茉莉的一条天赋节点（[TapTap 佐证](https://www.taptap.cn/moment/833133720914364996)）。具体必选/可选/规避待当前版本实测后填入。

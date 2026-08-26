@@ -1,17 +1,24 @@
-# Rejected Guides
+# 被拒攻略库
 
-Purpose:
-Record unreliable sources.
+用途：记录不可靠来源，标注拒收理由。
 
-## Criteria
+## 拒收标准
+出现以下任一情况即拒收：
+- 版本未知
+- 技能名或数值错误
+- 未经高难实测
+- 纯理论、无证据
+- 与官方更新冲突
+- 社区反馈失败
 
-Reject when:
+每条被拒攻略需附理由。
 
-- Version unknown
-- Wrong skill names or numbers
-- No high difficulty testing
-- Pure theory without evidence
-- Conflicts with official updates
-- Community feedback reports failure
+## 已拒示例（来自检索遴选，供参考）
+| 攻略 / 来源 | 拒收理由 |
+|---|---|
+| 九游笔记《爆肝加点🔥神级搭配速抄》 | 无版本、纯标题党、数值无法核验，疑似 AI/模板化；触犯"纯理论无证据" |
+| 九游笔记《神级加点🔥秒杀全服》 | 同上，标题党、无来源 |
+| 媒体"战士/法师/刺客"全职业加点模板文 | 与游戏真实"船员 + 职业标签"体系不符，疑似模板文 |
+| 三测 / 内测旧数据攻略（如"暴击 vs 暴伤孰先"） | 未标版本，且与 8/17 平衡重构后的收益曲线可能不符 |
 
-Each rejected guide should include the reason.
+> 规则：宁可欠定论，也不采纳未经实测 / 无版本的来源。
